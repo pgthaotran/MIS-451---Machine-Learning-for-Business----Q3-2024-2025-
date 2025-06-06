@@ -13,7 +13,7 @@ This repository contains my final project, assignments, and in-class exercises f
 ### 2. Clustering Assignment: Customer Segmentation 🛍️
 
 * **Goal:** To apply K-Means clustering to segment customers for a luxury clothing company, enabling targeted marketing campaigns.
-* 
+
 ---
 
 ### 3. Assignment: Machine Learning on AWS ☁️
