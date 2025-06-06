@@ -43,6 +43,6 @@ The project follows a standard data science workflow:
 
 * `MIS451_FINAL_PROJECT_CLUSTERING.ipynb`: The main Jupyter Notebook containing all Python code and analysis.
 * `BCTC_Bank.xlsx`: The raw dataset used for the analysis.
-* `MIS451_FINAL_PROJECT_REPORT.pdf`: The comprehensive final report detailing the project's methodology, findings, and conclusions.
+* `MIS451_FINAL_PROJECT_REPORT.pdf`: The final report detailing the project's methodology, findings, and conclusions.
 * `MIS451_FINAL_PROJECT_PRESENTATION.pdf`: The slide deck for the project presentation.
 
