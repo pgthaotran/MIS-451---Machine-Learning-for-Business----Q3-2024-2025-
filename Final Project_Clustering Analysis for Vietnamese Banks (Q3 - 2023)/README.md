@@ -1,5 +1,7 @@
 # Clustering Analysis for Vietnamese Banks (Q3 - 2023)
 
+<img src="https://github.com/pgthaotran/MIS-451---Machine-Learning-for-Business----Q3-2024-2025-/blob/main/MIS%20451_FINAL%20PROJECT.jpg?raw=true" width="600"/>
+
 ## Project Overview
 
 This project presents a data-driven approach to segment Vietnamese banks into meaningful peer groups based on their financial performance in the third quarter of 2023. Using machine learning clustering techniques, this analysis identifies homogeneous segments within the banking sector, uncovers strategic patterns, and provides a foundation for tailored strategic recommendations.
