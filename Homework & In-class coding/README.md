@@ -1,4 +1,4 @@
-## In-Class Coding & Homework
+## Homework & In-Class Coding
 
 This folder also contains a collection of Jupyter Notebooks from in-class coding sessions and homework assignments. These cover various machine learning concepts and applications on different datasets.
 
